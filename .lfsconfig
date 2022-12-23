@@ -1,2 +1,2 @@
 [lfs]
-	url = http://lfs.bpz-labs.com:8080/my-organization/test-repo
+	url = https://lfs.bpz-labs.com/my-organization/test-repo
